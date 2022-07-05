@@ -1,0 +1,10 @@
+In North America, the basketball game is enjoyed by its citizens, and most of them take great pleasure in watching NBA (National Basketball Association) basketball league. 
+
+Like India’s IPL is celebrated among cricket fans throughout the world, NBA is widely recognized among basketball fans.
+
+Project Idea: For this project, you can scrape data from Basketball-Reference.com, which has data for NBA games and WNBA and G League. 
+
+It contains information about all the basketball players like Field Goal Percentage, Field Goal Attempts, Position in the court, minutes played,, etc.
+
+Recommended Web Scraping Tool: The two web scraping libraries that will help you smooth this project’s implementation is BeautifulSoup and 
+Requests of the Python programming language. They allow easy access to websites and parsing of HTML pages.
